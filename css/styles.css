@@ -303,3 +303,29 @@ img {
     letter-spacing: 0.02em;
     color: #F4F4FD;
 }
+.soc-icon {
+    fill: #F4F4FD;
+    
+}
+.icon-list {
+    display: inline-flex;
+    background-color: #4D5AE5;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+
+}
+.wrapper-icon {
+    gap: 24px;
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+.secondlast-con {
+    margin-left: 120px;
+}
+.wrapper-icon-footer {
+    gap: 24px;
+    display: flex;
+    margin-top: 16px;
+}
