@@ -11,6 +11,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin: 0 auto;
 }
 .third {
     background-color: #F4F4FD;
@@ -330,6 +331,7 @@ img {
     padding-left: 16px;
     padding-right: 16px;
     justify-content: center;
+    margin-top: 8px;
 }
 .firstlast-con {
     margin-right: 120px;
